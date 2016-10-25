@@ -1,0 +1,2 @@
+favorite_things = {movie: "Black Cat White Cat", music:"Bjork", city:"St. Petersburg", food: "sushi", drink:"coffee" }
+fav_things = {:movie => "Black Cat White Cat", :music => "Bjork", :city => "St.Petersburg", :food => "sishi", :drink => "coffee"}
